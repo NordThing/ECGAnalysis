@@ -7,6 +7,9 @@ A good resource to find software is physionet.org
 Today there are many waveforms that could be read. The most common sense to be .ishne and .edf and .edf+ 
 There are of course a lot more formats
 
+When finding the right place there is a lot of resources for this - very interesting. 
+The most interesting is the WFDB for Python that are created. This we can use to call from a web-application to render the ECG-wave. 
+I also found this https://github.com/citiususc/construe An abductive framework for the interpretation of time series, with special application to ECG data.
 
 # ECGAnalysis
 EP Limited:  Open Source ECG Analysis Software - STEP 1
