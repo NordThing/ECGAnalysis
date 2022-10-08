@@ -3,6 +3,10 @@ Latest update: 2022-10-08
 1. Use latest Angular framework to build the frontend
 2. Use latest WFDB for python to build the backend
 
+# ECGAnalysis - Howto do it
+https://www.highcharts.com/blog/tutorials/highcharts-and-angular-7/
+
+
 
 # ECGAnalysis
 Collecting information about differents types and trying to use already existing software. 
