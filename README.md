@@ -1,4 +1,7 @@
 # ECGAnalysis
+Collecting information about differents types and trying to use already existing software. 
+We will build a backend and a frontend with the capabilites to review the waveforms and do beat annotations. 
+A good resource to find software is physionet.org
 
 
 # ECGAnalysis
