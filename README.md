@@ -18,3 +18,7 @@ BuildInstructions.txt -  Instructions for unpacking and compiling gcc file versi
 /ec13/ - Test files for standard AAMI EC13
 
 /src/  - Original source code from EP Limited - QRS-finder and Beat-analyser
+
+/mitdb/ - MIT-BIH Arrhythmia Database
+
+/mitdbaf/ - MIT-BIH Atrial Fibrillation Database
