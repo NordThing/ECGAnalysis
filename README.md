@@ -1,4 +1,9 @@
-Latest update: 2022-10-08
+Latest update: 2022-10-09
+# Latest comments about this project 
+I´m trying to consolidate as much information as possible here to get forward what I´m trying to achieve. 
+There will not be a good order in this project right now, but will be cleaned later. 
+
+
 # ECGAnalysis - GOAL 
 1. Use latest Angular framework to build the frontend
 2. Use latest WFDB for python to build the backend
