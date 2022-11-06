@@ -1,7 +1,7 @@
 Latest update: 2022-10-09
 # Latest comments about this project 
 I´m trying to consolidate as much information as possible here to get forward what I´m trying to achieve. 
-There will not be a good order in this project right now, but will be cleaned later. 
+There will not be a good order in this project and it will not be cleaned later. This is a learning are that could be used in other projects later. 
 
 
 # ECGAnalysis - GOAL 
